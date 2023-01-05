@@ -8,6 +8,8 @@
 <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
  -->
+ 
+<!--  [![GitHub Streak](https://streak-stats.demolab.com/?user=anjilab)](https://git.io/streak-stats) -->
 
 <p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjilab&layout=compact" />
