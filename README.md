@@ -4,7 +4,7 @@
 
 ![](https://gitwar.herokuapp.com/badge?username=anjilab)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anjilab)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=anjilab)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=anjilab)](https://git.io/streak-stats) -->
 
