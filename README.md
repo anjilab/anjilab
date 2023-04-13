@@ -2,7 +2,7 @@
 
 **Anjila Budathoki/anjilab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://gitwar.herokuapp.com/badge?username=anjilab)
+<!-- ![](https://gitwar.herokuapp.com/badge?username=anjilab) -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=anjilab)](https://github.com/ryo-ma/github-profile-trophy) -->
 
