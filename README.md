@@ -7,6 +7,7 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=anjilab)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=anjilab)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anjilab&theme=dark)](https://git.io/streak-stats)
 
 ### Stuff I use day to day
 <p>
